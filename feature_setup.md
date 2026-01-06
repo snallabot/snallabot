@@ -7,7 +7,7 @@ We recommend to first setup teams, then setup game channels. All other features 
 Snallabot provides an easy interface to assign teams for your league. 
 
 1. first run `/teams configure` with the channel you would like to display the teams in and if you would like automatic role tracking
-2. if you are using automatic role tracking, create a role for every team in the league. Otherwise, proceed to the next step
+2. [OPTIONAL, NOT REQUIRED] if you are using automatic role tracking, create a role for every team in the league. Otherwise, proceed to the next step
 3. assign every team to a user using `/teams assign` supplying the team, the user, and optional role to track on (if you did step 2)
 4. You are now setup to use teams!
 5. use `/teams open` with the team name, city, or abbreviation to free a team
