@@ -7,7 +7,7 @@ Add the snallabot to your server by clicking [here](https://discord.com/api/oaut
 ## Setup your league
 
 
-### Snallabot Dashboard (easiest RECOMMENDED)
+### Snallabot Dashboard
 
 Once the bot has been added to your discord do the following:
 
@@ -18,18 +18,6 @@ Once the bot has been added to your discord do the following:
 
 Every SEASON of your league, head to the dashboard and export All Weeks or in discord `/export all_weeks`
 
-### Madden Companion App (No Support Provided)
-
-Now the bot has been added to your discord server do the following:
-
-1. run `/league_export`, this will give you a URL that will be the export URL. whenever you run this command it will give you the same URL! For the first time, choose the top url. That will connect your discord server with your madden league. 
-2. Open the Madden Companion App
-3. Find your league in the app and click on it
-4. Navigate to the Export section
-5. In the web url box, type in the export URL you were given. You can copy and paste it so you don't have to mess it up.
-6. Check the league info, and weekly stats boxes
-7. For export week, export every regular season week. You can do this one at a time so you are setup for your entire regular season. Once you reach playoffs, you will have to do each week of the playoffs once you are in the week (as we don't know which teams are in the playoffs until then!)
-8. Finally, export! Once it is done, the bot is all setup to use
-9. If you want to keep your bot up to date, you will have to manually export every week. You may just use the shorter export url instead for that. 
-
 to learn how to setup snallabot core features, follow our [feature setup](feature_setup.md).
+
+# THERE IS NO SUPPORT FOR COMPANION APP
