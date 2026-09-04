@@ -10,7 +10,7 @@ Snallabot provides an easy interface to assign teams for your league.
 2. [OPTIONAL, NOT REQUIRED] if you are using automatic role tracking, create a role for every team in the league. Otherwise, proceed to the next step
 3. assign every team to a user using `/teams assign` supplying the team, the user, and optional role to track on (if you did step 2)
 4. You are now setup to use teams!
-5. use `/teams open` with the team name, city, or abbreviation to free a team
+5. use `/teams free` with the team name, city, or abbreviation to free a team
 
 if you run into permission issues, snallabot should let you know. Make sure snallabot can send messages in the channel you provide in step 1. Snallabot will also need to server member permissions to read users and roles. 
 
